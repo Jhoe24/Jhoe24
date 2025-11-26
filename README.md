@@ -52,99 +52,29 @@ class PerfilDesarrollador:
 
 ### 🎯 Filosofía de Código
 
-<!-- CAMBIA AQUÍ TU FRASE MOTIVACIONAL -->
-
 > _"El universo está en constante expansión..._  
-> _...al igual que mi curiosidad"_ 🌠
+> _...al igual que mi curiosidad"_ 
 
 </div>
 
 ---
-
-# <!--
-
-# SECCIÓN 3: STACK TECNOLÓGICO
-
-Para agregar un nuevo badge:
-
-1. Visita: https://shields.io/badges
-2. O busca en: https://github.com/Ileriayo/markdown-badges
-3. Copia el código del badge y pégalo aquí
-
-Formato de un badge:
-![Nombre](URL_del_badge)
-
-Para eliminar un badge, simplemente borra la línea completa
--->
 
 ## 💻 Stack Tecnológico
 
 <div align="center">
+<div align="center">
 
-### 🔥 Lenguajes
+| Lenguajes | Frameworks & Librerías | Bases de Datos & Herramientas |
+|---:|:---:|:---|
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9) <br> ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-<!-- AGREGA O ELIMINA LENGUAJES AQUÍ -->
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Frameworks & Librerías
-
-<!-- AGREGA O ELIMINA FRAMEWORKS AQUÍ -->
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Bases de Datos
-
-<!-- AGREGA O ELIMINA BASES DE DATOS AQUÍ -->
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Herramientas & Otros
-
-<!-- AGREGA O ELIMINA HERRAMIENTAS AQUÍ -->
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Notas:**
+- He añadido el badge de **Flutter** y compactado los badges en una tabla para mejor lectura.
+- Si quieres, puedo reducir el tamaño de los badges o agruparlos en filas distintas para móviles.
 
 </div>
 
 ---
-
-# <!--
-
-# SECCIÓN 4: ESTADÍSTICAS DE GITHUB
-
-IMPORTANTE: Reemplaza "Jhoe24" con tu username de GitHub en todas las URLs
-
-Para personalizar:
-
-- height=200 → Cambia la altura de las gráficas
-- theme=tokyonight → Cambia el tema (prueba: dracula, radical, merko, gruvbox, dark)
-- hide_border=true → Cambia a false para mostrar bordes
-- bg_color=0D1117 → Cambia el color de fondo (formato hexadecimal sin #)
-- title_color=4FC3F7 → Cambia el color de los títulos
-  -->
-
-# <!--
-
-# SECCIÓN 6: MÁS ALLÁ DEL CÓDIGO
-
-Personaliza tus intereses y pasiones aquí
--->
 
 ## 🌌 Más Allá del Código
 
@@ -195,57 +125,16 @@ graph LR
 
 ---
 
-# <!--
-
-# SECCIÓN 7: GRÁFICO DE ACTIVIDAD
-
-Reemplaza "Jhoe24" con tu username
--->
-
 ## 📈 Actividad de Contribución
 
 <div align="center">
 
-<!-- CAMBIA "Jhoe24" POR TU USERNAME -->
 
 [![Jhoe24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jhoe24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-# <!--
-
-# SECCIÓN 8: SPOTIFY (OPCIONAL)
-
-Para habilitar:
-
-1. Ve a: https://spotify-github-profile.vercel.app/api/login
-2. Autoriza con tu cuenta de Spotify
-3. Copia tu Spotify User ID
-4. Reemplaza "TU_SPOTIFY_USER_ID" con tu ID
-5. Elimina los símbolos de comentario (quita el y el ->)
-   -->
-
-<!--
-## 🎵 Actualmente Escuchando
-
-<div align="center">
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_USER_ID&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=4fc3f7&bar_color_cover=true" alt="Spotify Now Playing"/>
-</a>
-
-</div>
-
----
--->
-
-# <!--
-
-# SECCIÓN 9: PIE DE PÁGINA
-
--->
 
 <div align="center">
 
