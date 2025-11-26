@@ -198,7 +198,7 @@ Para personalizar:
 <br/>
 
 ---
-
+<!-- 
 <div align="center">
 
 ### 🏆 Logros de GitHub
@@ -316,7 +316,7 @@ Para eliminar proyectos, borra el bloque <td>...</td> correspondiente
 </tr>
 </table>
 
-</div>
+</div> -->
 
 ---
 
