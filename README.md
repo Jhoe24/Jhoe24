@@ -44,9 +44,8 @@ class PerfilDesarrollador:
             "Profundizando en React para interfaces reactivas"
         ]
 
-    def life_motto(self):
-        # CAMBIA AQUÍ TU LEMA DE VIDA
-        return "break_it() → learn_it() → rebuild_it() → master_it()"
+    def lema(self):
+        return "romperlo() → aprenderlo() → reconstruirlo() → dominarlo()"
 ```
 
 <div align="center">
