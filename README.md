@@ -48,15 +48,6 @@ class PerfilDesarrollador:
         return "romperlo() → aprenderlo() → reconstruirlo() → dominarlo()"
 ```
 
-<div align="center">
-
-### 🎯 Filosofía de Código
-
-> _"El universo está en constante expansión..._  
-> _...al igual que mi curiosidad"_ 
-
-</div>
-
 ---
 
 ## 💻 Stack Tecnológico
