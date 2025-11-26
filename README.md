@@ -19,33 +19,29 @@ width=800 controla el ancho de la imagen
 ## 🚀 Sobre Mí
 
 ```python
-class DeveloperProfile:
+class PerfilDesarrollador:
     def __init__(self):
-        # CAMBIA AQUÍ TU INFORMACIÓN PERSONAL
         self.name = "Andy Jhoe Palma Erazo"
         self.username = "Jhoe24"
-        self.location = "Barinas, Venezuela 🇻🇪"
-        self.role = "Estudiante Universitario"
-        self.passion = "Python & Tecnología"
+        self.location = "Barinas, Venezuela"
+        self.role = "Universitario"
+        self.passion = "Python"
 
-    def philosophy(self):
-        # CAMBIA AQUÍ TU FILOSOFÍA
+    def Filosofia(self):
         return """
         Si no entiendo algo completamente, lo desarmo hasta sus
         componentes más básicos. No me importa si después no funciona,
         porque en el proceso aprendo cómo funciona realmente.
 
-        El conocimiento se construye desde la raíz. 🌱
+        El conocimiento se construye desde la raíz, no importa los 
+        fallos que te encuentres.
         """
 
-    def current_focus(self):
-        # CAMBIA AQUÍ EN QUÉ ESTÁS TRABAJANDO ACTUALMENTE
+    def enfoque_actual(self):
         return [
-            "🐍 Dominando Python y sus ecosistemas",
-            "🎨 Creando interfaces modernas y elegantes",
-            "🤖 Experimentando con Arduino y hardware",
-            "📚 Leyendo documentación como si fueran novelas",
-            "🌌 Explorando el universo del código"
+            "Aprendiendo Flutter para aplicaciones móviles y web",
+            "Construyendo aplicaciones de escritorio con Electron",
+            "Profundizando en React para interfaces reactivas"
         ]
 
     def life_motto(self):
