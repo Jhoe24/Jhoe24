@@ -129,38 +129,7 @@ graph LR
 
 </div>
 
-# <!--
 
-# FIN DEL PERFIL
 
-RECURSOS ÚTILES PARA PERSONALIZAR:
 
-📌 Badges/Insignias:
 
-- https://shields.io/
-- https://github.com/Ileriayo/markdown-badges
-
-🎨 GIFs y animaciones:
-
-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
-- https://user-images.githubusercontent.com/
-
-📊 Estadísticas de GitHub:
-
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/DenverCoder1/github-readme-streak-stats
-
-🎵 Spotify Widget:
-
-- https://github.com/kittinan/spotify-github-profile
-
-💡 TIPS DE EDICIÓN:
-
-1.  Para buscar y reemplazar tu username: Ctrl+F → busca "Jhoe24" → reemplaza con tu username
-2.  Para cambiar colores: busca códigos como "4FC3F7" y cámbialos
-3.  Para agregar emojis: Windows (Win + .) | Mac (Cmd + Ctrl + Espacio)
-4.  Siempre guarda una copia de respaldo antes de hacer cambios grandes
-
-# ¡ÉXITO CON TU PERFIL! 🚀
-
--->
