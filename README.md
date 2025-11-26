@@ -101,7 +101,6 @@ class PerfilDesarrollador:
 
 ### 🌟 Gracias por visitar mi perfil
 
-<!-- CONTADOR DE VISITAS - Reemplaza "Jhoe24" con TU username -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jhoe24&color=4FC3F7&style=for-the-badge&label=VISITAS)
 
