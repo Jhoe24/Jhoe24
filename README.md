@@ -2,9 +2,9 @@
 
 # 🌌 Andy Jhoe Palma Erazo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Estudiante+Universitario+%7C+Venezuela+🇻🇪;Python+Enthusiast+%7C+Eternal+Learner;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Estudiante+Universitario+%7C+Venezuela+🇻🇪;Python+Enthusiast+%7C+Eternal+Learner;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
 
@@ -69,6 +69,8 @@ class DeveloperProfile:
 
 ### ⚡ Frameworks & Librerías
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
@@ -95,17 +97,22 @@ class DeveloperProfile:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhoe24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=FFFFFF"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jhoe24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoe24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=FFFFFF"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoe24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jhoe24&theme=tokyonight&hide_border=true&background=0D1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jhoe24&theme=tokyonight&hide_border=true&background=0D1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" alt="GitHub Streak"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -241,15 +248,23 @@ graph LR
 
 ---
 
+<!-- 
 ## 🎵 Actualmente Escuchando
+
+Para habilitar esta sección:
+1. Visita: https://spotify-github-profile.vercel.app/api/login
+2. Obtén tu Spotify ID
+3. Reemplaza "TU_SPOTIFY_USER_ID" con tu ID real
+4. Descomenta esta sección
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=TU_ID_DE_SPOTIFY&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=4fc3f7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=TU_ID_DE_SPOTIFY&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=4fc3f7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_USER_ID&redirect=true)
 
 </div>
 
 ---
+-->
 
 <div align="center">
 
