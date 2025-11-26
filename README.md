@@ -1,8 +1,5 @@
 <div align="center">
 
-# Andy Jhoe Palma Erazo
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Hola+-+mucho+gusto%2C+soy+desarrollador;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;%C2%A1Bienvenidos+a+mi+perfil%21)](https://git.io/typing-svg)
 
 <!--
@@ -54,8 +51,7 @@ class PerfilDesarrollador:
 
 <div align="center">
 
-<details>
-<summary><strong>Backend</strong></summary>
+### Backend
 
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="Python" />
@@ -65,10 +61,7 @@ class PerfilDesarrollador:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-</details>
-
-<details>
-<summary><strong>Frontend / Web</strong></summary>
+### Frontend / Web
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -78,19 +71,13 @@ class PerfilDesarrollador:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-</details>
-
-<details>
-<summary><strong>Móvil</strong></summary>
+### Móvil
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-</details>
-
-<details>
-<summary><strong>Desktop</strong></summary>
+### Desktop
 
 <p>
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
@@ -98,10 +85,7 @@ class PerfilDesarrollador:
 <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter" />
 </p>
 
-</details>
-
-<details>
-<summary><strong>Bases de Datos & Herramientas</strong></summary>
+### Bases de Datos & Herramientas
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -111,10 +95,6 @@ class PerfilDesarrollador:
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
-
-</details>
-
-**Nota:** HTML y CSS se muestran aquí como *tecnologías web* (markup y estilos), no los estoy listando como lenguajes de programación.
 
 </div>
 ---
