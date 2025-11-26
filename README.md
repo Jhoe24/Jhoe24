@@ -3,7 +3,7 @@
 # Andy Jhoe Palma Erazo
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Mucho+gusto%2C+soy+desarrollador;Estudiante+en+Ingenier%C3%ADa+en+Sistemas+Inform%C3%A1ticos;%C2%A1Bienvenidos+a+mi+perfil%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Hola+-+mucho+gusto%2C+soy+desarrollador;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;%C2%A1Bienvenidos+a+mi+perfil%21)](https://git.io/typing-svg)
 
 <!--
 BANNER/GIF PRINCIPAL
