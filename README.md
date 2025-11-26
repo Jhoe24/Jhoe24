@@ -1,37 +1,11 @@
-<!-- 
-===========================================
-   PERFIL DE GITHUB - JHOE24
-   Creado para: Andy Jhoe Palma Erazo
-===========================================
--->
-
-<!-- 
-===========================================
-SECCIÓN 1: ENCABEZADO PRINCIPAL
-===========================================
-Aquí puedes modificar:
-- Tu nombre
-- El tamaño del texto animado
-- Los textos que aparecen animados
-- El tamaño del banner
--->
-
 <div align="center">
 
-<!-- Tu nombre principal -->
-# 🌌 Andy Jhoe Palma Erazo
+# Andy Jhoe Palma Erazo
 
-<!-- 
-TEXTO ANIMADO
-Para modificar:
-- size=32 → Cambia el tamaño del texto (prueba con 28, 36, 40)
-- width=900 → Cambia el ancho (prueba con 800, 1000)
-- height=120 → Cambia la altura (prueba con 100, 140)
-- lines=Texto1;Texto2;Texto3 → Cambia las líneas que aparecen (separa con ;)
--->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Estudiante+Universitario+%7C+Venezuela+🇻🇪;Python+Enthusiast+%7C+Eternal+Learner;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
 
-<!-- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Estudiante+Universitario+%7C+Venezuela+🇻🇪;Python+Enthusiast+%7C+Eternal+Learner;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
+
+<!--
 BANNER/GIF PRINCIPAL
 Para cambiar la imagen, reemplaza la URL después de src=
 width=800 controla el ancho de la imagen
@@ -42,10 +16,10 @@ width=800 controla el ancho de la imagen
 
 ---
 
-<!-- 
-===========================================
-SECCIÓN 2: SOBRE MÍ (CÓDIGO PYTHON)
-===========================================
+# <!--
+
+# SECCIÓN 2: SOBRE MÍ (CÓDIGO PYTHON)
+
 Modifica el contenido dentro de las comillas para cambiar tu información
 -->
 
@@ -60,17 +34,17 @@ class DeveloperProfile:
         self.location = "Barinas, Venezuela 🇻🇪"
         self.role = "Estudiante Universitario"
         self.passion = "Python & Tecnología"
-        
+
     def philosophy(self):
         # CAMBIA AQUÍ TU FILOSOFÍA
         return """
-        Si no entiendo algo completamente, lo desarmo hasta sus 
+        Si no entiendo algo completamente, lo desarmo hasta sus
         componentes más básicos. No me importa si después no funciona,
         porque en el proceso aprendo cómo funciona realmente.
-        
+
         El conocimiento se construye desde la raíz. 🌱
         """
-    
+
     def current_focus(self):
         # CAMBIA AQUÍ EN QUÉ ESTÁS TRABAJANDO ACTUALMENTE
         return [
@@ -80,7 +54,7 @@ class DeveloperProfile:
             "📚 Leyendo documentación como si fueran novelas",
             "🌌 Explorando el universo del código"
         ]
-    
+
     def life_motto(self):
         # CAMBIA AQUÍ TU LEMA DE VIDA
         return "break_it() → learn_it() → rebuild_it() → master_it()"
@@ -91,18 +65,20 @@ class DeveloperProfile:
 ### 🎯 Filosofía de Código
 
 <!-- CAMBIA AQUÍ TU FRASE MOTIVACIONAL -->
-> *"El universo está en constante expansión...*  
-> *...al igual que mi curiosidad"* 🌠
+
+> _"El universo está en constante expansión..._  
+> _...al igual que mi curiosidad"_ 🌠
 
 </div>
 
 ---
 
-<!-- 
-===========================================
-SECCIÓN 3: STACK TECNOLÓGICO
-===========================================
+# <!--
+
+# SECCIÓN 3: STACK TECNOLÓGICO
+
 Para agregar un nuevo badge:
+
 1. Visita: https://shields.io/badges
 2. O busca en: https://github.com/Ileriayo/markdown-badges
 3. Copia el código del badge y pégalo aquí
@@ -120,6 +96,7 @@ Para eliminar un badge, simplemente borra la línea completa
 ### 🔥 Lenguajes
 
 <!-- AGREGA O ELIMINA LENGUAJES AQUÍ -->
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -130,6 +107,7 @@ Para eliminar un badge, simplemente borra la línea completa
 ### ⚡ Frameworks & Librerías
 
 <!-- AGREGA O ELIMINA FRAMEWORKS AQUÍ -->
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -141,6 +119,7 @@ Para eliminar un badge, simplemente borra la línea completa
 ### 🗄️ Bases de Datos
 
 <!-- AGREGA O ELIMINA BASES DE DATOS AQUÍ -->
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -148,6 +127,7 @@ Para eliminar un badge, simplemente borra la línea completa
 ### 🛠️ Herramientas & Otros
 
 <!-- AGREGA O ELIMINA HERRAMIENTAS AQUÍ -->
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -156,26 +136,25 @@ Para eliminar un badge, simplemente borra la línea completa
 
 ---
 
-<!-- 
-===========================================
-SECCIÓN 4: ESTADÍSTICAS DE GITHUB
-===========================================
+# <!--
+
+# SECCIÓN 4: ESTADÍSTICAS DE GITHUB
+
 IMPORTANTE: Reemplaza "Jhoe24" con tu username de GitHub en todas las URLs
 
 Para personalizar:
+
 - height=200 → Cambia la altura de las gráficas
 - theme=tokyonight → Cambia el tema (prueba: dracula, radical, merko, gruvbox, dark)
 - hide_border=true → Cambia a false para mostrar bordes
 - bg_color=0D1117 → Cambia el color de fondo (formato hexadecimal sin #)
 - title_color=4FC3F7 → Cambia el color de los títulos
--->
+  -->
 
+# <!--
 
+# SECCIÓN 6: MÁS ALLÁ DEL CÓDIGO
 
-<!-- 
-===========================================
-SECCIÓN 6: MÁS ALLÁ DEL CÓDIGO
-===========================================
 Personaliza tus intereses y pasiones aquí
 -->
 
@@ -210,7 +189,9 @@ const myInterests = {
 DIAGRAMA MERMAID
 Para modificar el flujo, edita el texto entre las líneas
 Formato: A[Texto] --> B[Texto]
+
 -->
+
 ```mermaid
 graph LR
     A[😕 Encuentro algo nuevo] --> B[🤔 Me intriga]
@@ -226,10 +207,10 @@ graph LR
 
 ---
 
-<!-- 
-===========================================
-SECCIÓN 7: GRÁFICO DE ACTIVIDAD
-===========================================
+# <!--
+
+# SECCIÓN 7: GRÁFICO DE ACTIVIDAD
+
 Reemplaza "Jhoe24" con tu username
 -->
 
@@ -238,25 +219,27 @@ Reemplaza "Jhoe24" con tu username
 <div align="center">
 
 <!-- CAMBIA "Jhoe24" POR TU USERNAME -->
+
 [![Jhoe24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jhoe24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- 
-===========================================
-SECCIÓN 8: SPOTIFY (OPCIONAL)
-===========================================
+# <!--
+
+# SECCIÓN 8: SPOTIFY (OPCIONAL)
+
 Para habilitar:
+
 1. Ve a: https://spotify-github-profile.vercel.app/api/login
 2. Autoriza con tu cuenta de Spotify
 3. Copia tu Spotify User ID
 4. Reemplaza "TU_SPOTIFY_USER_ID" con tu ID
-5. Elimina los símbolos de comentario (quita el  y el ->)
--->
+5. Elimina los símbolos de comentario (quita el y el ->)
+   -->
 
-<!-- 
+<!--
 ## 🎵 Actualmente Escuchando
 
 <div align="center">
@@ -270,10 +253,10 @@ Para habilitar:
 ---
 -->
 
-<!-- 
-===========================================
-SECCIÓN 9: PIE DE PÁGINA
-===========================================
+# <!--
+
+# SECCIÓN 9: PIE DE PÁGINA
+
 -->
 
 <div align="center">
@@ -281,6 +264,7 @@ SECCIÓN 9: PIE DE PÁGINA
 ### 💬 Filosofía de Vida
 
 <!-- CAMBIA AQUÍ TU FRASE FINAL -->
+
 > **"El código es poesía, los bugs son lecciones,**  
 > **y cada proyecto es un nuevo universo por explorar."** ✨
 
@@ -290,6 +274,7 @@ SECCIÓN 9: PIE DE PÁGINA
 ### 🌟 Gracias por visitar mi perfil
 
 <!-- CONTADOR DE VISITAS - Reemplaza "Jhoe24" con TU username -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Jhoe24&color=4FC3F7&style=for-the-badge&label=VISITAS)
 
 ---
@@ -299,34 +284,38 @@ SECCIÓN 9: PIE DE PÁGINA
 
 </div>
 
-<!-- 
-===========================================
-FIN DEL PERFIL
-===========================================
+# <!--
+
+# FIN DEL PERFIL
 
 RECURSOS ÚTILES PARA PERSONALIZAR:
 
 📌 Badges/Insignias:
-   - https://shields.io/
-   - https://github.com/Ileriayo/markdown-badges
+
+- https://shields.io/
+- https://github.com/Ileriayo/markdown-badges
 
 🎨 GIFs y animaciones:
-   - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
-   - https://user-images.githubusercontent.com/
+
+- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
+- https://user-images.githubusercontent.com/
 
 📊 Estadísticas de GitHub:
-   - https://github.com/anuraghazra/github-readme-stats
-   - https://github.com/DenverCoder1/github-readme-streak-stats
+
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/DenverCoder1/github-readme-streak-stats
 
 🎵 Spotify Widget:
-   - https://github.com/kittinan/spotify-github-profile
+
+- https://github.com/kittinan/spotify-github-profile
 
 💡 TIPS DE EDICIÓN:
-   1. Para buscar y reemplazar tu username: Ctrl+F → busca "Jhoe24" → reemplaza con tu username
-   2. Para cambiar colores: busca códigos como "4FC3F7" y cámbialos
-   3. Para agregar emojis: Windows (Win + .) | Mac (Cmd + Ctrl + Espacio)
-   4. Siempre guarda una copia de respaldo antes de hacer cambios grandes
 
-¡ÉXITO CON TU PERFIL! 🚀
-===========================================
+1.  Para buscar y reemplazar tu username: Ctrl+F → busca "Jhoe24" → reemplaza con tu username
+2.  Para cambiar colores: busca códigos como "4FC3F7" y cámbialos
+3.  Para agregar emojis: Windows (Win + .) | Mac (Cmd + Ctrl + Espacio)
+4.  Siempre guarda una copia de respaldo antes de hacer cambios grandes
+
+# ¡ÉXITO CON TU PERFIL! 🚀
+
 -->
