@@ -68,9 +68,6 @@ class PerfilDesarrollador:
 |---:|:---:|:---|
 | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9) <br> ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-**Notas:**
-- He añadido el badge de **Flutter** y compactado los badges en una tabla para mejor lectura.
-- Si quieres, puedo reducir el tamaño de los badges o agruparlos en filas distintas para móviles.
 
 </div>
 
@@ -85,30 +82,10 @@ class PerfilDesarrollador:
 
 </div>
 
-### 🎯 Intereses y Pasiones
-
-```javascript
-// MODIFICA TUS INTERESES AQUÍ
-const myInterests = {
-    🎵 música: "Cada bug tiene su banda sonora perfecta",
-    🤖 hardware: "Arduino, electrónica y proyectos que a veces explotan",
-    🌌 universo: "Física cuántica, multiversos y teorías cósmicas",
-    📚 aprendizaje: "Leo documentación técnica como novelas",
-    🎨 anime: "Porque la animación también es arte",
-    🔧 tinkering: "Si funciona, lo desarmo. Si no funciona, también."
-};
-```
 
 ### 💭 Mi Proceso de Aprendizaje
 
 <div align="center">
-
-<!-- 
-DIAGRAMA MERMAID
-Para modificar el flujo, edita el texto entre las líneas
-Formato: A[Texto] --> B[Texto]
-
--->
 
 ```mermaid
 graph LR
