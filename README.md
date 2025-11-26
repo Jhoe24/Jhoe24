@@ -16,13 +16,6 @@ width=800 controla el ancho de la imagen
 
 ---
 
-# <!--
-
-# SECCIÓN 2: SOBRE MÍ (CÓDIGO PYTHON)
-
-Modifica el contenido dentro de las comillas para cambiar tu información
--->
-
 ## 🚀 Sobre Mí
 
 ```python
